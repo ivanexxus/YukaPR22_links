@@ -4,10 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mis Enlaces</title>
-  </head>
+  <script src=""></script>
+</head>
 <body class="bg-gray-100 flex items-center justify-center min-h-screen">
   <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
-    <img src="c:\Users\Usuario\Pictures\Saved Pictures\IMG-20250531-WA0151.jpg" alt="Tu Foto" class="mx-auto rounded-full mb-4 w-24 h-24">
+    <img src="" alt="Tu Foto" class="mx-auto rounded-full mb-4 w-24 h-24">
     <h1 class="text-2xl font-bold mb-2">YukaPR22</h1>
     <p class="text-gray-500 mb-6">Aqui tienes mis redes corazon de melon</p>
 
